@@ -7,7 +7,7 @@ pip2<br/>
 python3
 
 # Installation
-1)git clone https://github.com/roshanlouis1122000/gitter</br>
+1)git clone https://github.com/abhijith002live/gitter</br>
 2)run python3 install.py</br>
 # CLI
 For Linux</br>
